@@ -15,6 +15,30 @@
 
 ⭐ Adicionando aos favoritos (**star**) 
 
+(star)
+
+## Sumário
+1. [Introdução](#introdução)
+2. [Contribuindo no diretório "Community"](#contribuindo-no-diretório-community)
+3. [Faça um Fork deste Repositório](#faça-um-fork-deste-repositório)
+4. [Clone localmente](#clone-localmente)
+5. [Crie uma nova branch](#crie-uma-nova-branch)
+6. [Crie o seu Profile README](#crie-o-seu-profile-readme)
+    6.1. [Adicione suas alterações à "staging area"](#Desenvolva-o-seu-Profile-README)
+7. [Adicione Suas Alterações à "Staging Area"](#adicione-suas-alterações-à-staging-area)#Desenvolva o seu Profile README
+8. [Crie um Commit](#crie-um-commit)
+9. [Envie as Alterações para o seu Repositório Remoto](#envie-as-alterações-para-o-seu-repositório-remoto)
+10. [Crie um Pull Request](#crie-um-pull-request)
+11. [Convenção de Commits](#convenção-de-commits)
+12. [Referências](#referências)
+
+## Introdução
+
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir de várias formas:
+- **Exemplo de Profile README**
+- **Inserir utilitários na pasta `utils`**
+- **Melhorar a página de pesquisa dos READMEs** (arquivos na pasta `docs`)
+
 ##  Contribuindo no diretório "Community" 
  A contribuição no diretório "Community" é uma das formas de completar o Desafio do lab "**Contribuindo em um Projeto Open Source no GitHub**" da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
  Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
